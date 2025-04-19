@@ -1,7 +1,7 @@
 require('dotenv').config();
 const mongoose = require('mongoose');
 const app = require('./app')
-const { loadCharacters, loadItems } = require('./data/seeders/dataLoader');
+const { loadCharacters, loadItems, updateData } = require('./data/seeders/dataLoader');
 
 const PORT = process.env.PORT || 3005;
 
@@ -12,7 +12,8 @@ async function initializeServer() {
 
     await loadCharacters();
     await loadItems();
-   
+    await updateData();
+
     app.listen(PORT, () => {
       console.log(`Server running on http://localhost:${PORT}`);
       
