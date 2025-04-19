@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Senior_Investigator_Log",
+    "img": "investigator_log.webp"
+  },
+  {
+    "name": "Basic_Fire_Chips",
+    "img": "basic_fire_chip.webp"
+  },
+  {
+    "name": "Advanced_Fire_Chips",
+    "img": "advanced_fire_chip.webp"
+  },
+  {
+    "name": "Specialized_Fire_Chips",
+    "img": "specialized_fire_chip.webp"
+  },
+  {
+    "name": "Basic_Anomaly_Certification_Seal",
+    "img": "basic_anomaly_certification_seal.webp"
+  },
+  {
+    "name": "Advanced_Anomaly_Certification_Seal",
+    "img": "advanced_anomaly_certification_seal.webp"
+  },
+  {
+    "name": "Controller_Certification_Seal",
+    "img": "controller_certification_seal.webp"
+  },
+  {
+    "name": "Denny",
+    "img": "denny.webp"
+  },
+  {
+    "name": "Higher_Dimensional_Data_Stealth_Phantom",
+    "img": "higher_dimensional_data_stealth_phantom.webp"
+  },
+  {
+    "name": "Scarlet_Engine",
+    "img": "scarlet_engine.webp"
+  }
+]

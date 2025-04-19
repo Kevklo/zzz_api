@@ -1,0 +1,134 @@
+{
+  "Burnice": {
+    "name": "Burnice",
+    "attribute": "Fire",
+    "type": "Anomaly",
+    "smallImg": "burnice-small.webp",
+    "bigImg": "burnice-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Stealth_Phantom",
+      "weeklyMat": "Scarlet_Engine"
+    }
+  },
+  "Anby": {
+    "name": "Anby",
+    "attribute": "Electric",
+    "type": "Stun",
+    "smallImg": "anby-small.webp",
+    "bigImg": "anby-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Murderous_Obituary",
+      "weeklyMat": "Ferocius_Grip"
+    }
+  },
+  "Pulcra": {
+    "name": "Pulcra",
+    "attribute": "Physical",
+    "type": "Stun",
+    "smallImg": "pulcra-small.webp",
+    "bigImg": "pulcra-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Stealth_Phantom",
+      "weeklyMat": "Scarlet_Engine"
+    }
+  },
+  "Astra_Yao": {
+    "name": "Astra Yao",
+    "attribute": "Ether",
+    "type": "Support",
+    "smallImg": "astrayao-small.webp",
+    "bigImg": "astrayao-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Thunderous_Dragon",
+      "weeklyMat": "Finale_Dance_Shoes"
+    }
+  },
+  "Caesar": {
+    "name": "Caesar",
+    "attribute": "Physical",
+    "type": "Defense",
+    "smallImg": "caesar-small.webp",
+    "bigImg": "caesar-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Stealth_Phantom",
+      "weeklyMat": "Scarlet_Engine"
+    }
+  },
+  "Ellen": {
+    "name": "Ellen",
+    "attribute": "Ice",
+    "type": "Attack",
+    "smallImg": "ellen-small.webp",
+    "bigImg": "ellen-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Murderous_Obituary",
+      "weeklyMat": "Ferocius_Grip"
+    }
+  },
+  "Evelyn": {
+    "name": "Evelyn",
+    "attribute": "Fire",
+    "type": "Attack",
+    "smallImg": "evelyn-small.webp",
+    "bigImg": "evelyn-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Steel_Malice",
+      "weeklyMat": "Scarlet_Engine"
+    }
+  },
+  "Grace": {
+    "name": "Grace",
+    "attribute": "Electric",
+    "type": "Anomaly",
+    "smallImg": "grace-small.webp",
+    "bigImg": "grace-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Destructive_Advance",
+      "weeklyMat": "Living_Drive"
+    }
+  },
+  "Harumasa": {
+    "name": "Harumasa",
+    "attribute": "Electric",
+    "type": "Attack",
+    "smallImg": "harumasa-small.webp",
+    "bigImg": "harumasa-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Thunderous_Dragon",
+      "weeklyMat": "Sycophant's_Refinement"
+    }
+  },
+  "Jane_Doe": {
+    "name": "Jane Doe",
+    "attribute": "Physical",
+    "type": "Anomaly",
+    "smallImg": "janedoe-small.webp",
+    "bigImg": "janedoe-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Falling_Fist",
+      "weeklyMat": "Ferocius_Grip"
+    }
+  },
+  "Koleda": {
+    "name": "Koleda",
+    "attribute": "Fire",
+    "type": "Stun",
+    "smallImg": "koleda-small.webp",
+    "bigImg": "koleda-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Steel_Malice",
+      "weeklyMat": "Living_Drive"
+    }
+  }
+}
