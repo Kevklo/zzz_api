@@ -1,11 +1,22 @@
 const Character = require('../models/Character');
 
+const buildImageUrls = (req, character) => {
+  const baseUrl = process.env.BASE_URL || `${req.protocol}://${req.get('host')}`;
+  return {
+    small: `${baseUrl}/static/images/characters/${character.smallImg}`,
+    large: `${baseUrl}/static/images/characters/${character.bigImg}`
+  };
+};
+
 exports.getAllCharacters = async (req, res) => {
   try {
     const characters = await Character.find();
     
     const charactersIndexed = characters.reduce((acc, character) => {
-      acc[character.name] = character;
+      acc[character.name] = {
+        ...character.toObject(),
+        images: buildImageUrls(req, character),
+      };
       return acc;
     }, {});
     
@@ -40,7 +51,10 @@ exports.getCharacterByName = async (req, res) => {
     res.json({
       success: true,
       data: {
-        [character.name]: character
+        [character.name]: {
+          ...character.toObject(),
+          images: buildImageUrls(req, character),
+        }
       }
     });
   } catch (error) {
@@ -79,7 +93,10 @@ exports.getCharactersByAttribute = async (req, res) => {
     }
 
     const result = characters.reduce((acc, char) => {
-      acc[char.name] = char;
+      acc[char.name] = { 
+        ...char.toObject(),
+        images: buildImageUrls(req, char),
+      };
       return acc;
     }, {});
 
