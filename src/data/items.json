@@ -16,6 +16,18 @@
     "img": "specialized_fire_chip.webp"
   },
   {
+    "name": "Basic_Electric_Chips",
+    "img": "basic_electric_chip.webp"
+  },
+  {
+    "name": "Advanced_Electric_Chips",
+    "img": "advanced_electric_chip.webp"
+  },
+  {
+    "name": "Specialized_Electric_Chips",
+    "img": "specialized_electric_chip.webp"
+  },
+  {
     "name": "Basic_Anomaly_Certification_Seal",
     "img": "basic_anomaly_certification_seal.webp"
   },
@@ -28,6 +40,18 @@
     "img": "controller_certification_seal.webp"
   },
   {
+    "name": "Basic_Attack_Certification_Seal",
+    "img": "basic_attack_certification_seal.webp"
+  },
+  {
+    "name": "Advanced_Attack_Certification_Seal",
+    "img": "advanced_attack_certification_seal.webp"
+  },
+  {
+    "name": "Pioneer's_Certification_Seal",
+    "img": "pioneer's_certification_seal.webp"
+  },  
+  {
     "name": "Denny",
     "img": "denny.webp"
   },
@@ -36,7 +60,15 @@
     "img": "higher_dimensional_data_stealth_phantom.webp"
   },
   {
+   "name": "Higher_Dimensional_Data_Thunderous_Dragon",
+   "img": "higher_dimensional_data_thunderous_dragon"
+  },
+  {
     "name": "Scarlet_Engine",
     "img": "scarlet_engine.webp"
+  },
+  {
+    "name": "Sycophant's_Refinement",
+    "img": "sycopanth's_refinement"
   }
 ]
