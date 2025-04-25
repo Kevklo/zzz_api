@@ -181,7 +181,7 @@
   },
   "Qingyi": {
     "name": "Qingyi",
-    "attribute": "Electrical",
+    "attribute": "Electric",
     "type": "Stun",
     "smallImg": "qingyi-small.webp",
     "bigImg": "qingyi-big.webp",
@@ -193,7 +193,7 @@
   },
   "Rina": {
     "name": "Rina",
-    "attribute": "Electrical",
+    "attribute": "Electric",
     "type": "Support",
     "smallImg": "rina-small.webp",
     "bigImg": "rina-big.webp",
