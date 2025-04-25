@@ -134,7 +134,7 @@
   "Lighter": {
     "name": "Lighter",
     "attribute": "Fire",
-    "type": "stun",
+    "type": "Stun",
     "smallImg": "lighter-small.webp",
     "bigImg": "lighter-big.webp",
     "coreSkillMaterials": {
