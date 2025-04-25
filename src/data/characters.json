@@ -15,8 +15,8 @@
     "name": "Astra Yao",
     "attribute": "Ether",
     "type": "Support",
-    "smallImg": "astrayao-small.webp",
-    "bigImg": "astrayao-big.webp",
+    "smallImg": "astra_yao-small.webp",
+    "bigImg": "astra_yao-big.webp",
     "coreSkillMaterials": {
       "denny": 405000,
       "bossMat": "Higher_Dimensional_Data_Thunderous_Dragon",
@@ -99,8 +99,8 @@
     "name": "Jane Doe",
     "attribute": "Physical",
     "type": "Anomaly",
-    "smallImg": "janedoe-small.webp",
-    "bigImg": "janedoe-big.webp",
+    "smallImg": "jane_doe-small.webp",
+    "bigImg": "jane_doe-big.webp",
     "coreSkillMaterials": {
       "denny": 405000,
       "bossMat": "Higher_Dimensional_Data_Falling_Fist",
@@ -130,5 +130,245 @@
       "bossMat": "Higher_Dimensional_Data_Stealth_Phantom",
       "weeklyMat": "Scarlet_Engine"
     }
-  }
+  },
+  "Lighter": {
+    "name": "Lighter",
+    "attribute": "Fire",
+    "type": "stun",
+    "smallImg": "lighter-small.webp",
+    "bigImg": "lighter-big.webp",
+    "coreSkillMaterials": {
+        "denny": 405000,
+        "bossMat": "Higher_Dimensional_Data_Crimson_Awe",
+        "weeklyMat": "Scarlet_Engine"
+    }
+  },
+  "Lycaon": {
+    "name": "Lycaon",
+    "attribute": "Ice",
+    "type": "Stun",
+    "smallImg": "lycaon-small.webp",
+    "bigImg": "lycaon-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Ethereal_Pursuit",
+      "weeklyMat": "Finale_Dance_Shoes"
+    }
+  },
+  "Miyabi": {
+    "name": "Miyabi",
+    "attribute": "Ice",
+    "type": "Anomaly",
+    "smallImg": "miyabi-small.webp",
+    "bigImg": "miyabi-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Thunderous_Dragon",
+      "weeklyMat": "Sycophant's_Refinement"
+    }
+  },
+  "Nekomata": {
+    "name": "Nekomata",
+    "attribute": "Physical",
+    "type": "Attack",
+    "smallImg": "nekomata-small.webp",
+    "bigImg": "nekomata-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Crimson_Awe",
+      "weeklyMat": "Ferocious_Grip"
+    }
+  },
+  "Qingyi": {
+    "name": "Qingyi",
+    "attribute": "Electrical",
+    "type": "Stun",
+    "smallImg": "qingyi-small.webp",
+    "bigImg": "qingyi-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Ethereal_Pursuit",
+      "weeklyMat": "Living_Drive"
+    }
+  },
+  "Rina": {
+    "name": "Rina",
+    "attribute": "Electrical",
+    "type": "Support",
+    "smallImg": "rina-small.webp",
+    "bigImg": "rina-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Destructive_Advance",
+      "weeklyMat": "Finale_Dance_Shoes"
+    }
+  },
+  "Soldier 11": {
+    "name": "Soldier 11",
+    "attribute": "Fire",
+    "type": "Attack",
+    "smallImg": "soldier_11-small.webp",
+    "bigImg": "soldier_11-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Destructive_Advance",
+      "weeklyMat": "Finale_Dance_Shoes"
+    }
+  },
+  "Yanagi": {
+    "name": "Yanagi",
+    "attribute": "Electric",
+    "type": "Anomaly",
+    "smallImg": "yanagi-small.webp",
+    "bigImg": "yanagi-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Destructive_Advance",
+      "weeklyMat": "Living_Drive"
+    }
+  },
+  "Zhu Yuan": {
+    "name": "Zhu Yuan",
+    "attribute": "Ether",
+    "type": "Anomaly",
+    "smallImg": "zhu_yuan-small.webp",
+    "bigImg": "zhu_yuan-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Ethereal_Pursuit",
+      "weeklyMat": "Living_Drive"
+    }
+  },
+  "Anton": {
+    "name": "Anton",
+    "attribute": "Electric",
+    "type": "Attack",
+    "smallImg": "anton-small.webp",
+    "bigImg": "anton-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Destructive_Advance",
+      "weeklyMat": "Living_Drive"
+    }
+  },
+  "Ben": {
+    "name": "Ben",
+    "attribute": "Fire",
+    "type": "Defense",
+    "smallImg": "ben-small.webp",
+    "bigImg": "ben-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Steel_Malice",
+      "weeklyMat": "Living_Drive"
+    }
+  },
+  "Billy": {
+    "name": "Billy",
+    "attribute": "Physical",
+    "type": "Attack",
+    "smallImg": "billy-small.webp",
+    "bigImg": "billy-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Ethereal_Pursuit",
+      "weeklyMat": "Ferocious_Grip"
+    }
+  },
+  "Corin": {
+    "name": "Corin",
+    "attribute": "Physical",
+    "type": "Attack",
+    "smallImg": "corin-small.webp",
+    "bigImg": "corin-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Crimson_Awe",
+      "weeklyMat": "Finale_Dance_Shoes"
+    }
+  },
+  "Lucy": {
+    "name": "Lucy",
+    "attribute": "Fire",
+    "type": "Support",
+    "smallImg": "lucy-small.webp",
+    "bigImg": "lucy-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Steel_Malice",
+      "weeklyMat": "Ferocious_Grip"
+    }
+  },
+  "Nicole": {
+    "name": "Nicole",
+    "attribute": "Ether",
+    "type": "Anomaly",
+    "smallImg": "nicole-small.webp",
+    "bigImg": "nicole-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Murderous_Obituary",
+      "weeklyMat": "Ferocious_Grip"
+    }
+  },
+  "Piper": {
+    "name": "Piper",
+    "attribute": "Physical",
+    "type": "Anomaly",
+    "smallImg": "piper-small.webp",
+    "bigImg": "piper-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Crimson_Awe",
+      "weeklyMat": "Finale_Dance_Shoes"
+    }
+  },
+  "Seth": {
+    "name": "Seth",
+    "attribute": "Electric",
+    "type": "Defense",
+    "smallImg": "seth-small.webp",
+    "bigImg": "seth-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Falling_Fist",
+      "weeklyMat": "Living_Drive"
+    }
+  },
+  "Soukaku": {
+    "name": "Soukaku",
+    "attribute": "Ice",
+    "type": "Support",
+    "smallImg": "soukaku-small.webp",
+    "bigImg": "soukaku-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Murderous_Obituary",
+      "weeklyMat": "Finale_Dance_Shoes"
+    }
+  },
+  "Trigger": {
+    "name": "Trigger",
+    "attribute": "Electric",
+    "type": "Stun",
+    "smallImg": "trigger-small.webp",
+    "bigImg": "trigger-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Mortal_Cleave",
+      "weeklyMat": "Ferocious_Grip"
+    }
+  },
+  "Silver Anby": {
+    "name": "Silver Anby",
+    "attribute": "Electric",
+    "type": "Attack",
+    "smallImg": "silver_anby-small.webp",
+    "bigImg": "silver_anby-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Mortal_Cleave",
+      "weeklyMat": "Living_Drive"
+    }
+  }  
 }
