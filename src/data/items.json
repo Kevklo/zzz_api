@@ -152,6 +152,10 @@
     "img": "higher_dimensional_data_destructive_advance.webp"
   },
   {
+    "name": "Higher_Dimensional_Data_Falling_Fist",
+    "img": "higher_dimensional_data_falling_fist.webp"
+  },  
+  {
     "name": "Higher_Dimensional_Data_Stealth_Phantom",
     "img": "higher_dimensional_data_stealth_phantom.webp"
   },
@@ -159,6 +163,10 @@
    "name": "Higher_Dimensional_Data_Thunderous_Dragon",
    "img": "higher_dimensional_data_thunderous_dragon.webp"
   },
+  {
+    "name": "Higher_Dimensional_Data_Mortal_Cleave",
+    "img": "higher_dimensional_data_mortal_cleave.webp"
+   },  
   {
     "name": "Ferocious_Grip",
     "img": "ferocious_grip.webp"
