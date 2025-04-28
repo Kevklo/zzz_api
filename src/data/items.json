@@ -16,6 +16,18 @@
     "img": "specialized_fire_chip.webp"
   },
   {
+    "name": "Basic_Ice_Chips",
+    "img": "basic_ice_chip.webp"
+  },
+  {
+    "name": "Advanced_Ice_Chips",
+    "img": "advanced_ice_chip.webp"
+  },
+  {
+    "name": "Specialized_Ice_Chips",
+    "img": "specialized_ice_chip.webp"
+  },  
+  {
     "name": "Basic_Electric_Chips",
     "img": "basic_electric_chip.webp"
   },
@@ -27,6 +39,30 @@
     "name": "Specialized_Electric_Chips",
     "img": "specialized_electric_chip.webp"
   },
+  {
+    "name": "Basic_Ether_Chips",
+    "img": "basic_ether_chip.webp"
+  },
+  {
+    "name": "Advanced_Ether_Chips",
+    "img": "advanced_ether_chip.webp"
+  },
+  {
+    "name": "Specialized_Ether_Chips",
+    "img": "specialized_ether_chip.webp"
+  },
+  {
+    "name": "Basic_Physical_Chips",
+    "img": "basic_physical_chip.webp"
+  },
+  {
+    "name": "Advanced_Physical_Chips",
+    "img": "advanced_physical_chip.webp"
+  },
+  {
+    "name": "Specialized_Physical_Chips",
+    "img": "specialized_physical_chip.webp"
+  },  
   {
     "name": "Basic_Anomaly_Certification_Seal",
     "img": "basic_anomaly_certification_seal.webp"
@@ -50,10 +86,70 @@
   {
     "name": "Pioneer's_Certification_Seal",
     "img": "pioneer's_certification_seal.webp"
-  },  
+  },
+  {
+    "name": "Basic_Defense_Certification_Seal",
+    "img": "basic_defense_certification_seal.webp"
+  },
+  {
+    "name": "Advanced_Defense_Certification_Seal",
+    "img": "advanced_defense_certification_seal.webp"
+  },
+  {
+    "name": "Defender_Certification_Seal",
+    "img": "defender_certification_seal.webp"
+  },
+  {
+    "name": "Basic_Stun_Certification_Seal",
+    "img": "basic_stun_certification_seal.webp"
+  },
+  {
+    "name": "Advanced_Stun_Certification_Seal",
+    "img": "advanced_stun_certification_seal.webp"
+  },
+  {
+    "name": "Buster_Certification_Seal",
+    "img": "buster_certification_seal.webp"
+  },
+  {
+    "name": "Basic_Support_Certification_Seal",
+    "img": "basic_support_certification_seal.webp"
+  },
+  {
+    "name": "Advanced_Support_Certification_Seal",
+    "img": "advanced_support_certification_seal.webp"
+  },
+  {
+    "name": "Ruler_Certification_Seal",
+    "img": "ruler_certification_seal.webp"
+  },
+  {
+    "name": "Hamster_Cage_Pass",
+    "img": "hamster_cage_pass.webp"
+  },
   {
     "name": "Denny",
     "img": "denny.webp"
+  },
+  {
+    "name": "Higher_Dimensional_Data_Murderous_Obituary",
+    "img": "higher_dimensional_data_murderous_obituary.webp"
+  },
+  {
+    "name": "Higher_Dimensional_Data_Crimson_Awe",
+    "img": "higher_dimensional_data_crimson_awe.webp"
+  },
+  {
+    "name": "Higher_Dimensional_Data_Ethereal_Pursuit",
+    "img": "higher_dimensional_data_ethereal_pursuit.webp"
+  },
+  {
+    "name": "Higher_Dimensional_Data_Steel_Malice",
+    "img": "higher_dimensional_data_steel_malice.webp"
+  },
+  {
+    "name": "Higher_Dimensional_Data_Destructive_Advance",
+    "img": "higher_dimensional_data_destructive_advance.webp"
   },
   {
     "name": "Higher_Dimensional_Data_Stealth_Phantom",
@@ -63,6 +159,18 @@
    "name": "Higher_Dimensional_Data_Thunderous_Dragon",
    "img": "higher_dimensional_data_thunderous_dragon.webp"
   },
+  {
+    "name": "Ferocious_Grip",
+    "img": "ferocious_grip.webp"
+  },
+  {
+    "name": "Living_Drive",
+    "img": "living_drive.webp"
+  },
+  {
+    "name": "Finale_Dance_Shoes",
+    "img": "finale_dance_shoes.webp"
+  },      
   {
     "name": "Scarlet_Engine",
     "img": "scarlet_engine.webp"

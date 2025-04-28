@@ -370,5 +370,17 @@
       "bossMat": "Higher_Dimensional_Data_Mortal_Cleave",
       "weeklyMat": "Living_Drive"
     }
-  }  
+  },
+  "Vivian": {
+    "name": "Vivian",
+    "attribute": "Ether",
+    "type": "Anomaly",
+    "smallImg": "vivian-small.webp",
+    "bigImg": "vivian-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Thunderous_Dragon",
+      "weeklyMat": "Sycophant's_Refinement"
+    }
+  }
 }
