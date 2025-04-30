@@ -95,6 +95,18 @@
       "weeklyMat": "Sycophant's_Refinement"
     }
   },
+  "Hugo": {
+    "name": "Hugo",
+    "attribute": "Ice",
+    "type": "Attack",
+    "smallImg": "hugo-small.webp",
+    "bigImg": "hugo-big.webp",
+    "coreSkillMaterials": {
+      "denny": 405000,
+      "bossMat": "Higher_Dimensional_Data_Murderous_Obituary",
+      "weeklyMat": "Finale_Dance_Shoes"
+    }
+  },
   "Jane_Doe": {
     "name": "Jane Doe",
     "attribute": "Physical",
