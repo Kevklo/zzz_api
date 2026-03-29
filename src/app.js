@@ -4,11 +4,6 @@ const path = require('path');
 const app = express();
 const rateLimit = require('express-rate-limit')
 
-const limiter = rateLimit({
-  windowsMs: 15 * 60 * 1000,
-  max: 100,
-})
-
 app.use(cors());
 app.use(express.json());
 app.use(express.static('public'));
