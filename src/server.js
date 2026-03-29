@@ -20,7 +20,7 @@ async function initializeServer() {
     })} catch (error) {
       console.error(`Server initialization failed`, error);
       process.exit(1);
-    }
+    }``
 }
 
 initializeServer();
